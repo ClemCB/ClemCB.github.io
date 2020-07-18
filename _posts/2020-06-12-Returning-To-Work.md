@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Returning to Work
+title: 12th June 2020 - Returning to Work
 ---
 
 I returned to my desk and job as a software developer at the beginning of June after nine months of maternity leave. Lockdown has meant it’s not the world I expected to return to; catching up with colleagues and projects over Slack and Google Meet instead of in-person over a coffee or in sprint planning meetings, but it’s been surprisingly enjoyable.

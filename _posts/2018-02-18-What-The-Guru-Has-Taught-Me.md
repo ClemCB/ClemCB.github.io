@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 13 February 2018 - What the Guru has taught me
+title: 13th February 2018 - What the Guru has taught me
 ---
 
 The 13th February marks one year since I overhauled my career and began retraining as a software developer. On that Monday last year, in a room of strangers, we were welcomed by our coach to Makers Academy and I knew there was nowhere else in the whole world I should be. I was doing something which made sense and I was determined to make it the best experience I'd ever had.
