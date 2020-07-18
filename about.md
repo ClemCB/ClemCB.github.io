@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Clem Capel-Bird and I'm a collaborative software developer. I test drive my code, enjoy working in multidisciplinary teams and strive to be continually learning and improving. I'm a tech meetup organiser and enjoy bringing people together.
 
-### More Information
+Technologies and ways of working I've used (and enjoyed):
 
-A place to include any other types of information that you'd like to include about yourself.
+Elixir, Phoenix, Test Driven Development (TDD), React, Redux, CircleCI, AWS, Jest, AWS Kinesis, ExUnit, HTML, SASS, pair programming, functional programming, GraphQL, postgres.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[clemcapelbird@gmail.com](mailto:clemcapelbird@gmail.com)
